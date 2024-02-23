@@ -1,6 +1,6 @@
 Hi I'm Ranganathan 🧑‍💻<br>
 <hr>
-🌱 I’m currently learning Full Stack development in Udemy<br>
+🌱 I’m currently learning Full Stack web-development in Udemy<br>
 📚 Hindusthan College of Engineering & Technology at Coimbatore<br>
 💻 Front-end Developer <br>
 
