@@ -1,7 +1,7 @@
 Hi I'm Ranganathan 🧑‍💻<br>
 <hr>
 🌱 I’m currently learning Full Stack web-development in Udemy<br>
-📚 Iam currently pursuing B-TECH-IT in Hindusthan College of Engineering & Technology at Coimbatore<br>
+📚 I am currently pursuing B-TECH-IT in Hindusthan College of Engineering & Technology at Coimbatore<br>
 💻 Front-end Developer <br>
 
 <hr>
