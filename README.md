@@ -1,4 +1,10 @@
-Hi I'm Ranganathan 🧑‍💻<br><hr><br>🌱 I’m currently learning Full Stack web-development in Udemy<br>📚 I am currently pursuing B-TECH-IT in Hindusthan College of Engineering & Technology at Coimbatore<br>💻 Front-end Developer <br><hr>
+Hi, I'm Ranganathan 🧑‍💻<br><hr><br>
+☕ Java Backend Developer | Spring Boot<br>
+🚀 Building secure and scalable REST APIs using Java & Spring Boot<br>
+🔐 Experienced with Spring Security, JWT & Role-Based Access Control<br>
+🗄️ Working with PostgreSQL, Hibernate, JPA & SQL<br>
+📚 B.Tech Information Technology | Hindusthan College of Engineering & Technology<br>
+💡 Passionate about backend development, problem-solving & building real-world applications<br><hr>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/renga.pov/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ranganathan-c-575b3825b/) 
